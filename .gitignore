@@ -1,2 +1,5 @@
 # Ignore temp/swap files
 *~
+
+# Reminder to only run bins on a VM
+DONT-RUN-BINS-HERE
